@@ -492,7 +492,7 @@ nl:
   is_not_available_to_shipment_address: "is niet beschikbaar voor afleveradres"
   issue_number: "Foutnummer"
   item: "Product"
-  item_description: "Product tmschrijving"
+  item_description: "Product omschrijving"
   item_total: "Product totaal"
   item_total_rule:
     operators:
@@ -941,7 +941,7 @@ nl:
     backorder: "backorder"
     partial: "gedeeltelijk"
     pending: "in afwachting"
-    ready: "voltooid"
+    ready: "Klaar om te verzenden"
     shipped: "verzonden"
   shipment_updated: "Zending bijgewerkt"
   shipments: "Verzendingen"
