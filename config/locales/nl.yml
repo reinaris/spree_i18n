@@ -366,6 +366,8 @@ nl:
     month_names: [~, januari, februari, maart, april, mei, juni, juli, augustus, september, oktober, november, december]
     formats:
       default: '%d-%m-%Y'
+  date_picker:
+    format: '%d-%m-%Y'
   debit: "Debet"
   default: "Standaard"
   default_tax: "Standaard belasting"
