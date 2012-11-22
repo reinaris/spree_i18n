@@ -368,6 +368,7 @@ nl:
       default: '%d-%m-%Y'
   debit: "Debet"
   default: "Standaard"
+  default_tax: "Standaard belasting"
   delete: "Verwijder"
   delivery: "Bezorging"
   depth: "Diepte"
@@ -480,6 +481,7 @@ nl:
   include_in_shipment: "Meenemen in verzending"
   included_in_other_shipment: "Meegenomen in andere verzending"
   included_in_this_shipment: "Meegenomen in deze verzending"
+  included_price_validation: "Prijs kan niet worden aangevinkt totdat je een standaard belasting gebied hebt ingesteld"
   instructions_to_reset_password: "Vul je e-mailadres in. De instructies om je wachtwoord te resetten worden naar je verstuurd:"
   integration_settings_warning: "Als je de betaal integratie wijzigd, dien je eerst op te slaan voordat je de integratie instellingen kan wijzigen"
   intercept_email_address: "E-mailadres opvangen"
