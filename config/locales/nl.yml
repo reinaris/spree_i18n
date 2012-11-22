@@ -236,6 +236,7 @@ nl:
           less_than_or_equal_to: "moet minder of gelijk zijn aan %{count}"
           odd: "moet oneven zijn"
           even: "moet even zijn"
+          record_invalid: "Foutieve record"
   add: "Toevoegen"
   add_category: "Categorie toevoegen"
   add_country: "Land toevoegen"
