@@ -626,7 +626,7 @@ nl:
     cancel_email:
       subject: "Bestelling is geannuleerd"
     confirm_email:
-      subject: "Bevestiging is bevestigd"
+      subject: "Bevestiging van je bestelling"
   order_not_in_system: "Het order nummer komt bij ons niet voor"
   order_number: "Nummer bestelling"
   order_operation_authorize: "Goedkeuren"
