@@ -424,7 +424,7 @@ nl:
   errors:
     messages:
       could_not_create_taxon: "Niet gelukt om taxonomie aan te maken"
-      no_shipping_methods_available: "Voor dit adres zijn geen verzendmethode beschikbaar, verander je adres en probeer het opnieuw."
+      no_shipping_methods_available: "Voor dit adres zijn geen verzendmethoden beschikbaar, verander je adres en probeer het opnieuw."
   errors_prohibited_this_record_from_being_saved:
     one: "Corrigeer de fout voordat je het formulier kunt opslaan"
     other: "Corrigeer de %{count} fouten voordat je het formulier kunt opslaan"
@@ -641,7 +641,7 @@ nl:
     cart: "winkelwagen"
     complete: "voltooien"
     confirm: "bevestigen"
-    delivery: "verzendmethode"
+    delivery: "verzendmethoden"
     payment: "betalen"
     resumed: "hervatten"
     returned: "geretourneerd"
@@ -1067,7 +1067,7 @@ nl:
   try_again: "Probeer Opnieuw"
   type: "Type"
   type_to_search: "Type om te zoeken"
-  unable_ship_method: "Kon geen verzendmethodes genereren door een serverfout."
+  unable_ship_method: "Kon geen verzendmethoden genereren door een serverfout."
   unable_to_authorize_credit_card: "Autorisatie van de creditcard mislukt"
   unable_to_capture_credit_card: "Afboeking via creditcard mislukt"
   unable_to_connect_to_gateway: "Kon geen verbinding maken met de betaalserver."
@@ -1102,7 +1102,7 @@ nl:
   variants: "Varianten"
   vat: "BTW"
   version: "Versie"
-  view_shipping_options: "Bekijk verzendmethodes"
+  view_shipping_options: "Bekijk verzendmethoden"
   views:
     pagination:
       first: "&laquo; Eerste"
