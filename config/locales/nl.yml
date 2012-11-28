@@ -236,6 +236,7 @@ nl:
           less_than_or_equal_to: "moet minder of gelijk zijn aan %{count}"
           odd: "moet oneven zijn"
           even: "moet even zijn"
+          record_invalid: "Foutieve record"
   add: "Toevoegen"
   add_category: "Categorie toevoegen"
   add_country: "Land toevoegen"
@@ -366,8 +367,11 @@ nl:
     month_names: [~, januari, februari, maart, april, mei, juni, juli, augustus, september, oktober, november, december]
     formats:
       default: '%d-%m-%Y'
+  date_picker:
+    format: '%d-%m-%Y'
   debit: "Debet"
   default: "Standaard"
+  default_tax: "Standaard belasting"
   delete: "Verwijder"
   delivery: "Bezorging"
   depth: "Diepte"
@@ -480,6 +484,7 @@ nl:
   include_in_shipment: "Meenemen in verzending"
   included_in_other_shipment: "Meegenomen in andere verzending"
   included_in_this_shipment: "Meegenomen in deze verzending"
+  included_price_validation: "Prijs kan niet worden aangevinkt totdat je een standaard belasting gebied hebt ingesteld"
   instructions_to_reset_password: "Vul je e-mailadres in. De instructies om je wachtwoord te resetten worden naar je verstuurd:"
   integration_settings_warning: "Als je de betaal integratie wijzigd, dien je eerst op te slaan voordat je de integratie instellingen kan wijzigen"
   intercept_email_address: "E-mailadres opvangen"
@@ -566,7 +571,7 @@ nl:
   new_promotion: "Nieuwe promotie"
   new_property: "Nieuwe eigenschap"
   new_prototype: "Nieuw prototype"
-  new_return_authorization: "Nieuwe autorisatie terugsturen"
+  new_return_authorization: "Nieuwe retour"
   new_shipment: "Nieuwe verzending"
   new_shipping_category: "Nieuwe verzend categorie"
   new_shipping_method: "Nieuwe verzendwijze"
@@ -621,7 +626,7 @@ nl:
     cancel_email:
       subject: "Bestelling is geannuleerd"
     confirm_email:
-      subject: "Bevestiging is bevestigd"
+      subject: "Bevestiging van je bestelling"
   order_not_in_system: "Het order nummer komt bij ons niet voor"
   order_number: "Nummer bestelling"
   order_operation_authorize: "Goedkeuren"
@@ -896,9 +901,9 @@ nl:
   resume: "Hervatten"
   resumed: "Hervat"
   return: "Terugzenden"
-  return_authorization: "Goedkeuring"
-  return_authorization_updated: "Goedkeuring bijgewerkt"
-  return_authorizations: "Goedkeuringen"
+  return_authorization: "Retours"
+  return_authorization_updated: "Retour bijgewerkt"
+  return_authorizations: "Retours"
   return_quantity: "Terugkerende aantallen"
   returned: "Teruggezonden"
   rma_credit: "RMA krediet"
