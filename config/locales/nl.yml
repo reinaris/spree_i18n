@@ -941,7 +941,7 @@ nl:
     backorder: "backorder"
     partial: "gedeeltelijk"
     pending: "in afwachting"
-    ready: "Klaar om te verzenden"
+    ready: "Wachten op verzending"
     shipped: "verzonden"
   shipment_updated: "Zending bijgewerkt"
   shipments: "Verzendingen"
