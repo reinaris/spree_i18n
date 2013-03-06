@@ -1005,6 +1005,8 @@ nl:
         key_generated: "API key aangemaakt"
         no_key: "Geen key opgegeven"
         regenerate_key: "Genereer API key"
+    date_picker:
+        format: '%d-%m-%Y'
   spree_gateway_error_flash_for_checkout: "Er was een probleem met je betaal gegevens. Controleer je gegevens en probeer het opnieuw."
   ssl_will_be_used_in_development_and_test_modes: "SSL wordt gebruikt in development en test modus als dit nodig is."
   ssl_will_be_used_in_production_mode: "SSL zal gebruikt worden in productie modus."
