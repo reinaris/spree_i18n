@@ -635,13 +635,13 @@ nl:
   order_state: # keys correspond to Checkout state names:
     # keys correspond to Checkout state names:
     address: "adres"
-    adjustments: "aanpassingen"
+    adjustments: "toevoegingen"
     awaiting_return: "wachten op retour"
     canceled: "geannuleerd"
     cart: "winkelwagen"
-    complete: "voltooien"
+    complete: "voltooid"
     confirm: "bevestigen"
-    delivery: "verzendmethoden"
+    delivery: "verzendwijze"
     payment: "betalen"
     resumed: "hervatten"
     returned: "geretourneerd"
