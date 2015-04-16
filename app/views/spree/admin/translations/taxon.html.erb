@@ -1,5 +1,5 @@
 <% content_for :page_title do %>
-  <%= Spree.t(:editing_resource, resource: Spree::Taxon.model_name.human) %>
+  <%= link_to Spree.t(:taxons), spree.admin_taxons_path %> / <%= @taxon.name %> / <%= Spree.t(:translations) %>
 <% end %>
 
 <%= render(:partial => 'spree/admin/taxons/sidebar', locals: { current: :translations }) rescue nil %>
